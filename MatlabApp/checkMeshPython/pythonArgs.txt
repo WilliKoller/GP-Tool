@@ -1,0 +1,4 @@
+
+
+C:\Program Files\Coreform Cubit 2022.4\bin\
+C:\Program Files\Microsoft MPI\Bin\mpiexec.exe
