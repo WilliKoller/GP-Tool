@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <febio_spec version="3.0">
-    <!--Created using GIBBON, 05-Jan-2023 14:24:51-->
+    <!--Created using GIBBON, 19-Jul-2023 11:08:37-->
     <Module type="solid"/>
     <Control>
         <analysis>STATIC</analysis>
@@ -582,8 +582,8 @@
             <var type="reaction forces"/>
             <var type="contact pressure"/>
         </plotfile>
-        <logfile file="C:\Users\Willi\Desktop\GP-Tool\MatlabApp\febioTestLog.txt">
-            <node_data data="ux;uy;uz" delim="," file="C:\Users\Willi\Desktop\GP-Tool\MatlabApp\febioTestLog_displacements.txt"/>
+        <logfile file="C:\Users\Willi\Documents\Github\GP-Tool_dist\MatlabApp\febioTestLog.txt">
+            <node_data data="ux;uy;uz" delim="," file="C:\Users\Willi\Documents\Github\GP-Tool_dist\MatlabApp\febioTestLog_displacements.txt"/>
         </logfile>
     </Output>
 </febio_spec>
